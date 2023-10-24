@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bg-card {
+  background-color: #f8fafc;
+  border-radius: 10px;
+  width: 50%;
+  padding: 40px;
+}
+.select-container {
+  height: 30px;
+  width: 120px;
+  font-family: 'Roboto';
+  font-weight: 900;
+}
+.span-name {
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 30px;
+  margin-top: 30px;
+}
